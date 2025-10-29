@@ -89,7 +89,7 @@ const Footer = ({ style_2 = false, style_3 = false,primary_style=false }) => {
                           </span>
                         </div>
                         <div className="tp-footer-contact-content">
-                          <p><a href="https://www.google.com/maps/place/New+York,+NY,+USA/@40.6972846,-74.1443095,11z/data=!3m1!4b1!4m6!3m5!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728!16zL20vMDJfMjg2?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank"> Bengaluru, India <br /> New York, USA</a></p>
+                          <p><a href="https://maps.app.goo.gl/Qj2gZhr6zbhuUUrr6" target="_blank"> Bengaluru, India <br /> New York, USA</a></p>
                         </div>
                       </div>
                     </div>
