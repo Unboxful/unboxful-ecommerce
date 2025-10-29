@@ -45,7 +45,7 @@ const FooterTwo = () => {
                             </span>
                           </div>
                           <div className="tp-footer-contact-content">
-                            <p><a href="https://www.google.com/maps/place/Sleepy+Hollow+Rd,+Gouverneur,+NY+13642,+USA/@44.3304966,-75.4552367,17z/data=!3m1!4b1!4m6!3m5!1s0x4cccddac8972c5eb:0x56286024afff537a!8m2!3d44.3304928!4d-75.453048!16s%2Fg%2F1tdsjdj4" target="_blank">79 Sleepy Hollow St. <br /> Jamaica, New York 1432</a></p>
+                            <p><a href="https://www.google.com/maps/place/New+York,+NY,+USA/@40.6972846,-74.1443095,11z/data=!3m1!4b1!4m6!3m5!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728!16zL20vMDJfMjg2?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank"> Bengaluru, India <br /> New York, USA</a></p>
                           </div>
                         </div>
                       </div>
@@ -117,7 +117,7 @@ const FooterTwo = () => {
                   <div className="col-md-6">
                     <div className="tp-footer-copyright">
                       <p>© {new Date().getFullYear()} All Rights Reserved  |  Made by
-                        <Link href="https://kognitec.com/">❤ Kognitec</Link>.
+                        <Link href="https://kognitec.com/"> ❇️ Kognitec</Link>.
                       </p>
                     </div>
                   </div>
