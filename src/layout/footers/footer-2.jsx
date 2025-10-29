@@ -116,8 +116,8 @@ const FooterTwo = () => {
                 <div className="row align-items-center">
                   <div className="col-md-6">
                     <div className="tp-footer-copyright">
-                      <p>© {new Date().getFullYear()} All Rights Reserved  |  Next js Template by
-                        <Link href="/">❤</Link>.
+                      <p>© {new Date().getFullYear()} All Rights Reserved  |  Made by
+                        <Link href="https://kognitec.com/">❤ Kognitec</Link>.
                       </p>
                     </div>
                   </div>
